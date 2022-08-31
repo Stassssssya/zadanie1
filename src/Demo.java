@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class project {
+public class Demo {
     public static void main(String[] args) {
         System.out.println("Введите три числа через Enter");
 
